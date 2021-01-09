@@ -1,12 +1,20 @@
 {
     "anytime" : [
-        "Hei sexy!"
+        "Hei sexy!",
+        "Mmm, du lukter godt.",
+        "Man kan virkelig se at du har trent i det siste.",
+        "Du har god stil.",
+        "Du er fantastisk!",
+        "Du ser ut som en lysfontene!",
+        "Å være normal er overvurdert.\n Rarheten din er unik.",
+        "Du lukter bananer."
     ],
     "morning" : [
         "God morn, solstråle!",
         "Hvem trenger kaffe når man kan se deg smile?",
         "Gå og ta dem, Tiger!",
-        "Mmmm.... kaffe"
+        "Mmmm.... kaffe",
+        "Du ser fantastisk ut i dag!"
     ],
     "afternoon" : [
         "Ta en pause.",
@@ -16,7 +24,23 @@
     ],
     "evening" : [
         "Du fikk noen til å smile i dag, jeg vet det.",
-        "Du utgjør en forskjell.",
+        "Det er sånne som deg som redder verden.",
         "Du gjorde dagen bedre."
+    ],
+    "....-08-04": [
+        "Gratulerer med bryllupsdag!"
+    ],
+    "....-02-03": [
+        "Sigurd har bursdag!"
+    ],
+    "....-12-13": [
+        "Sara har bursdag!"
+    ],
+    snow: [
+        "Akedag!!",
+        "Base i snøen?"
+    ],
+    "....-01-09": [
+        "TESTING!"
     ]
 }
