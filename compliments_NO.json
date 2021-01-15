@@ -40,7 +40,12 @@
         "Akedag!!",
         "Base i snøen?"
     ],
-    "....-01-09" : [
-        "TESTING!"
+    "thunderstorm" : [
+        "Ikke golf i dag :(",
+        "Pass deg for lyn og torden."
+    ],
+    "day_sunny" : [
+        "Strålende sol i dag!",
+        "Nyt været!"
     ]
 }
